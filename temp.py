@@ -1,0 +1,2 @@
+from finalconstruction import result_list
+print(result_list)
